@@ -19,6 +19,8 @@ public class Main {
         float total_marks=eng_marks+maths_marks+hindi_marks+science_marks;
         System.out.println("THe Total marks Secured by  "+name + "  is  " +total_marks);
 
+        System.out.println("Welcome to this Project");
+        System.out.println("hello");
     }
 
 
