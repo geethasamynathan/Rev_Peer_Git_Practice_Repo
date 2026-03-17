@@ -20,7 +20,7 @@ public class Main {
         System.out.println("THe Total marks Secured by  "+name + "  is  " +total_marks);
 
         System.out.println("Welcome to this Project");
-        System.out.println("what r u doing?");
+        System.out.println("Testing");
     }
 
 
