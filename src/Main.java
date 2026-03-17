@@ -21,7 +21,8 @@ public class Main {
 
         System.out.println("Welcome to this Project");
         System.out.println("hello");
-     System.out.println("Git pull demo");
+        System.out.println("Git pull demo");
+        System.out.println("Git Fetch Demo code line");
         
     }
 
