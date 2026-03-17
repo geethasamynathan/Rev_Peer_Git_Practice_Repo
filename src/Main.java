@@ -20,10 +20,7 @@ public class Main {
         System.out.println("THe Total marks Secured by  "+name + "  is  " +total_marks);
 
         System.out.println("Welcome to this Project");
-        System.out.println("hello");
-        System.out.println("Git pull demo");
-        System.out.println("Git Fetch Demo code line");
-        
+        System.out.println("what r u doing?");
     }
 
 
